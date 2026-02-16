@@ -1,8 +1,7 @@
 # 👩🏻‍💻 Fernanda Carmona
 
-Sou uma entusiasta em Ciência de Dados, apaixonada por descobrir padrões, interpretar informações e transformar dados em entendimento.
-
-Acredito que dados não servem apenas para análise, mas para direcionar decisões, reduzir incertezas e revelar oportunidades que não são visíveis à primeira vista.
+Meu nome é Fernanda, tenho 20 anos e gosto de entender o mundo através dos dados.
+Aqui compartilho estudos e projetos voltados à área de Ciência de Dados, explorando desde a organização da informação até a geração de insights e tomada de decisão.
 
 ---
 

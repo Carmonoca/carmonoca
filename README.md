@@ -1,53 +1,35 @@
-<!-- BANNER -->
-<h1 align="center">👩‍💻 Fernanda Carmona</h1>
-
-<p align="center">
-Apaixonada por Dados e pelo valor que eles podem gerar para pessoas e negócios.
-</p>
-
-<p align="center">
-Transformando informação em decisão.
-</p>
-
----
+# 👩🏻‍💻 Fernanda Carmona
 
 ## 🧠 Sobre mim
 
-Sou entusiasta da área de Dados e Cloud Computing, focada em entender como dados podem sair do armazenamento e realmente gerar impacto.
+Sou uma entusiasta em Ciência de Dados, apaixonada por descobrir padrões, interpretar informações e transformar dados em entendimento.
 
-Gosto de explorar desde a infraestrutura até a análise — porque dados só fazem sentido quando viram ação.
+Acredito que dados não servem apenas para análise, mas para direcionar decisões, reduzir incertezas e revelar oportunidades que não são visíveis à primeira vista.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-- 📊 Técnico em Administração — ETEC
-- ☁️ Graduação em Computação em Nuvem — FIAP
+- Técnico em Administração | ETEC  
+- Graduação em Computação em Nuvem | FIAP
 
 ---
 
-## ⚙️ Ferramentas & Tecnologias
+## Ferramentas & Tecnologias
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,python,git,github" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-
-</p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,python,git,github,mysql" />
 
 ---
 
-## 📜 Certificações
+## Certificações
 
-🏅 Veja minhas certificações no Credly  
-👉 https://www.credly.com/users/fernanda-carvalho.dbceeab0
+<a href="https://www.credly.com/users/fernanda-carvalho.dbceeab0">
+<img src="https://img.shields.io/badge/Credly-Ver%20Certificações-orange?style=for-the-badge&logo=credly"/>
+</a>
 
 ---
 
-## 🤝 Vamos nos conectar
-
-<p align="center">
+## Vamos nos conectar
 
 <a href="https://github.com/Carmonoca">
 <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github"/>
@@ -56,11 +38,3 @@ Gosto de explorar desde a infraestrutura até a análise — porque dados só fa
 <a href="https://www.linkedin.com/in/fernanda-carmona-carvalho/">
 <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-
-</p>
-
----
-
-<p align="center">
-✨ Obrigada por visitar meu perfil!
-</p>

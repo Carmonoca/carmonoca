@@ -1,14 +1,12 @@
 # 👩🏻‍💻 Fernanda Carmona
 
-## 🧠 Sobre mim
-
 Sou uma entusiasta em Ciência de Dados, apaixonada por descobrir padrões, interpretar informações e transformar dados em entendimento.
 
 Acredito que dados não servem apenas para análise, mas para direcionar decisões, reduzir incertezas e revelar oportunidades que não são visíveis à primeira vista.
 
 ---
 
-## 🎓 Formação Acadêmica
+## Formação Acadêmica
 
 - Técnico em Administração | ETEC  
 - Graduação em Computação em Nuvem | FIAP

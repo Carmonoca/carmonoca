@@ -17,13 +17,17 @@ Acredito que dados não servem apenas para análise, mas para direcionar decisõ
 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,python,git,github,mysql" />
 
----
+--- 
+
+## Certificações
 
 <a href="https://www.credly.com/users/fernanda-carvalho.dbceeab0">
 <img src="https://img.shields.io/badge/Credly-orange?style=for-the-badge&logo=credly"/>
 </a>
 
 ---
+
+## Vamos nos conectar
 
 <a href="https://github.com/Carmonoca">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
